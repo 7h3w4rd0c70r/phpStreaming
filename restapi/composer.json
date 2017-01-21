@@ -1,0 +1,10 @@
+{
+    "name": "patrik/restapi",
+    "authors": [
+        {
+            "name": "Patrik Simunic",
+            "email": "patriksimunic@hotmail.com"
+        }
+    ],
+    "require": {}
+}
